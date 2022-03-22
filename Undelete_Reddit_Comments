@@ -1,0 +1,1 @@
+javascript:window.open(location.href.replace(/:\/\/([\w-]+.)?(reddit\.com\/r|reveddit\.com\/v)\//i,%20%22://www.unddit.com/r/%22),%20%22_blank%22)
