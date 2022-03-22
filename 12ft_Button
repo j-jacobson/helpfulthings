@@ -1,0 +1,1 @@
+javascript:window.open("https://12ft.io/" + window.location, "_blank");
