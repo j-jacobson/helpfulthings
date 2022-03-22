@@ -1,0 +1,1 @@
+javascript:window.open(location.href.replace(/:\/\/([\w-]+.)?(twitter\.com)\//i,%20%22://nitter.net/%22),%20%22_blank%22)
