@@ -12,6 +12,6 @@
 
 (function() {
     'use strict';
-    window.location.href = '403.html';
+    window.location.href = 'https://github.com/j-jacobson/helpfulthings/blob/main/403.html';
     // Your code here...
 })();
