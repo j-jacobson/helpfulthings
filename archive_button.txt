@@ -1,0 +1,1 @@
+javascript:window.location.href="https://archive.is/newest/"+window.location.origin+window.location.pathname
