@@ -10,7 +10,7 @@ Create a new bookmark
 - for the address, paste the javascript code
 
 Find something you want to get around (e.g. youtube anti adblock)
-- Click the yewtube button
+- Click the yewtube bookmark
 - Enjoy your video, now through yewtu.be instead of youtube.com
 
 ## Contributions
