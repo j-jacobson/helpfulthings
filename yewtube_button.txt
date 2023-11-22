@@ -1,0 +1,1 @@
+javascript:window.open(location.href.replace(/:\/\/([\w-]+.)?(youtube\.com)\//i,%20%22://yewtu.be/%22),%20%22_blank%22)
