@@ -1,4 +1,5 @@
 # helpfulthings
+
 Things I use to help me use the internet.
 
 These are mostly bookmarks that allow you to instantly get around ads, paywalls, or anti adblockers. I try to update them regularly.
@@ -6,7 +7,6 @@ These are mostly bookmarks that allow you to instantly get around ads, paywalls,
 ## Usage
 
 **Quickstart**
-
 - Download the `helpfulthings.html` file.
 - Go to your browser and find "import bookmarks"
 - Select the `helpfulthings.html` file.
@@ -17,12 +17,21 @@ These are mostly bookmarks that allow you to instantly get around ads, paywalls,
 - For the address, paste the javascript code in the `.txt` file.
 
 ### Once you have the bookmarks added:
-Find something you want to get around (e.g. YouTube anti-adblock)
-- Click the applicable bookmark (e.g. `yewtube`)
-- Enjoy your video, now through __yewtu.be__ instead of __youtube.com__
+
+1. Find something you want to get around (e.g. YouTube anti-adblock)
+2. Click the applicable bookmark (e.g. `yewtube`)
+3. Enjoy your content, now through the redirected site. (e.g. through __yewtu.be__ instead of __youtube.com__)
+
+## How it works
+
+Most of these buttons just redirect to a mirror site that does not have ads or paywalls. Some redirect to an archived version of the site. The javascript simply takes the current URL and modifies it to replace the domain, while leaving the relative address the same.
 
 ## Contributing
 
 If you notice a link no longer works, please create an issue with a linked PR and I will pull it in.
 
 If you want to add a site, please create an issue to discuss.
+
+## License
+
+Feel free to use this code however you wish.
